@@ -1,0 +1,5 @@
+Database host: mycontainer-db.my.phpcloud.com
+Database port: 3306
+Database schema name: mycontainer
+Database user: mycontainer
+Database password: your container password
